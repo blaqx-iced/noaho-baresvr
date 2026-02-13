@@ -10,7 +10,8 @@
 		"esModuleInterop": true,
 		"declaration": true,
 		"sourceMap": true,
-		"resolveJsonModule": false
+		"resolveJsonModule": false,
+		"skipLibCheck": true
 	},
 	"include": ["src"]
 }
